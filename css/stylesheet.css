@@ -1,0 +1,47 @@
+head {
+  background-color: black; }
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: white;
+  font-size: .6em;
+  text-align: center;
+  font-family: Lucida, Verdana, Sans-Serif, serif; }
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto; }
+
+.menu {
+  display: inline-block;
+  margin: 1em;
+  padding: 1em;
+  text-align: center;
+  width: 100%; }
+
+header {
+  background-color: bisque; }
+
+footer {
+  background-color: orange; }
+
+nav {
+  background-color: yellow; }
+
+html {
+  background-color: aqua; }
+
+/*
+a, a:link, a:active, a:visited {
+    color: #3399FD;
+    text-decoration: none
+}
+
+a:hover {
+    color: #3399FD;
+    text-decoration: underline
+}
+*/
